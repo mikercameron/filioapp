@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "uk.co.filio.filioapp"
+        }
+    }
+}
